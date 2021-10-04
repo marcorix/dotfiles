@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = mr.ricci79@gmail.com
+	name = Marco Ricci
